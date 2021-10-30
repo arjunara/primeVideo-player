@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.popup-content {
+  height: 512px;
+  width: 70%;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+}
